@@ -36,7 +36,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 ### 📬 Contact Me
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.himanshukr@gmail.com ) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hello.himanshukr@gmail.com)
 
 
 ---
