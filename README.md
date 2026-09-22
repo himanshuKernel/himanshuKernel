@@ -1,58 +1,49 @@
-# Himanshu
-
-**Computer Science Student**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Himanshu
+=================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3b82f6&center=true&vCenter=true&width=640&lines=Building%20solid%20engineering%20fundamentals;Writing%20clean%20C%2B%2B%20and%20practicing%20algorithms%20daily)](https://git.io/typing-svg)
+### 🌟 About Me
 
-I am learning by building, sharing projects, and exploring the tools that shape modern software teams.
+- 🎓 2nd-year B.Tech CSE student at Amity University, Greater Noida.
+- 💻 Currently focused on C++, DSA, problem-solving, and software fundamentals.
+- 🌐 Exploring Web Development, Cybersecurity, and Open Source contributions.
+- 🛠️ Building projects, improving my GitHub, and learning by solving real problems.
+- 🚀 Consistently learning, building, and contributing to the developer community.
 
-Location: Greater noida,India · Learning: Data structures, web development, and open source contribution
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-himanshukumar/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello.himanshukr@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=himanshuKernel&color=3b82f6&style=flat-square)
+### 🛠 Tech Stack
+[![Tech stack: C, C++, Python, Vercel, Git, GitHub, Canva, LeetCode, Visual Studio Code](https://stack.rajinkhan.com/v1/stack.svg?i=c%2Ccplusplus%2Cpython%2Cvercel%2Cgit%2Cgithub%2Ccanva%2Cleetcode%2Cvscode)](https://stack.rajinkhan.com/?i=c%2Ccplusplus%2Cpython%2Cvercel%2Cgit%2Cgithub%2Ccanva%2Cleetcode%2Cvscode)
 
-## Snapshot
+---
 
-- ⌖ **Location** · Greater noida,India
-- ◎ **Education** · Amity University
-- ⟳ **Learning** · Data structures, web development, and open source contribution
+### 📊 GitHub Activity & Stats
 
-## Stack
+![](https://github-readme-stats.shion.dev/api?username=himanshuKernel&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=himanshuKernel&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshuKernel&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-**Languages**
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-himanshukumar/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/viahimanshu/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Languages"/>
+---
 
-**Frontend**
+### 📬 Contact Me
+<p align="left">
+  <a href="mailto:hello.himanshukr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hello.himanshukr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend"/>
+---
 
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend & Databases"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="DevOps & Cloud"/>
-
-**Custom**
-
-![c](https://img.shields.io/badge/c-111827?style=for-the-badge)
-
-## Languages
-- 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
-
-## GitHub Signals
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshuKernel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Himanshu stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuKernel&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Himanshu top languages"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=himanshuKernel&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
-
-## Extras
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuKernel&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=himanshuKernel&theme=github-dark&hide_border=true&area=true)
-
-[Say hello](https://www.linkedin.com/in/dev-himanshukumar/) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshuKernel&color=3b82f6&style=flat-square" alt="Profile Views" />
+</p>
